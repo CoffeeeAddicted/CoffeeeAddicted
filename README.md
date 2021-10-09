@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CoffeeeAddicted
-- 👀 I’m interested in visual arts and language and now experimenting with programming
+- 👀 I’m interested in visual arts and language and I'm now experimenting with programming
 - 🌱 I’m currently learning C# 
 
 <!---
